@@ -1,2 +1,2 @@
 echo"welcome to git training"
-echo :This is my first project"
+echo "This is my first project"
